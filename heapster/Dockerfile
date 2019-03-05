@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/heapster-amd64:v1.3.0
-MAINTAINER shida <qiushida@ctsi.com.cn>
+FROM gcr.io/google_containers/heapster-amd64:v1.5.4
+MAINTAINER wangjm <w1204jm@126.com>
